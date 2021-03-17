@@ -1,0 +1,10 @@
+rails to generate new table, change table; and run migration
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	new file:   db/migrate/20210317003852_create_testtable.rb
+#	new file:   db/migrate/20210317004255_add_color_to_posts.rb
+#	modified:   db/schema.rb
+#

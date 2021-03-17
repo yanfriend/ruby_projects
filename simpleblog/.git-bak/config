@@ -1,0 +1,18 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "ruby_project"]
+	url = https://github.com/yanfriend/ruby_projects
+	fetch = +refs/heads/*:refs/remotes/ruby_project/*
+[credential]
+	helper = store
+[remote "origin"]
+	url = git@github.com:yanfriend/ruby_projects.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 c584aea6cab3e684eb88a0db7c672c75a247a257 James Bai <james.bai@instacart.com> 1615801590 -0700	commit (initial): first Ruby on Rails project
+c584aea6cab3e684eb88a0db7c672c75a247a257 7951565c448be68f410f4655bb59e8f84d405e61 James Bai <james.bai@instacart.com> 1615941953 -0700	commit: rails to generate new table, change table; and run migration
